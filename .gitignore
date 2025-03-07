@@ -1,0 +1,4 @@
+.metadata/
+.zig-cache/
+zig-out/
+build.zig.zon
